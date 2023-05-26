@@ -1,0 +1,16 @@
+@charset "utf-8";
+table {
+    font-family: Tahoma;
+    text-align: justify;
+    font-size: medium;
+    border-width: 4pt;
+    border-color: #1E9C99;
+    background-color: #88D498;
+}
+.tablas {
+    background-color: #114B5F;
+    color: #FCFCFC;
+    font-family: Centaur;
+    font-style: italic;
+    text-align: center;
+}

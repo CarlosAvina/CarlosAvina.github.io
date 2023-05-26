@@ -1,0 +1,10 @@
+@charset "utf-8";
+.tablaframe {
+    border-color: #1A936F;
+    background-color: #88D498;
+    text-align: center;
+    align-content: left;
+}
+body {
+    background-color: #C6DA8F;
+}

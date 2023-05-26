@@ -1,0 +1,13 @@
+@charset "utf-8";
+.font2 {
+    color: #1A936F;
+    font-family: Forte;
+    font-size: x-large;
+}
+h1 {
+    color: #000000;
+    font-family: Centaur;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 4rem;
+}

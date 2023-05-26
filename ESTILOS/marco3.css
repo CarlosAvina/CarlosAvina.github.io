@@ -1,0 +1,56 @@
+@charset "utf-8";
+h1 {
+    color: #000000;
+    font-family: Centaur;
+    font-size: 5rem;
+    text-align: center;
+    font-style: normal;
+}
+h2 {
+    color: #064D52 ;
+    font-family: Centaur;
+    font-size: 4rem;
+    font-style: italic;
+    font-weight: bold;
+}
+
+font {
+    color: #1A936F;
+    font-family: Tahoma;
+    font-size: x-large;
+}
+
+b {
+    color: #064D52;
+    font-style: italic;
+    font-size: large;
+    font-variant: normal;
+    text-decoration: underline;
+    font-weight: bold;
+}
+img {
+    border: thick solid #000000;
+}
+h3 {
+    color: #064D52;
+    font-family: Centaur;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 2rem;
+    text-align: center;
+}
+hr {
+    width: 1100px;
+    height: 20px;
+    align-items: center;
+	background-color: #114B5F
+}
+.subtitulo1 {
+    text-decoration: underline;
+    font-family: Centaur;
+    font-style: italic;
+    color: #064D51;
+    font-weight: lighter;
+    text-align: center;
+    font-size: 4rem;
+}
